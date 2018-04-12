@@ -49,6 +49,7 @@
 * [Prevent Autoscroll](https://github.com/clonemeagain/osticket-plugin-preventautoscroll) - Stops the agent view from scrolling down to the last message in the thread.
 * [Reporting](http://software-mods.com/reports.html) - Paid plugin for extensive reporting.
 * [Rewriter](https://github.com/clonemeagain/plugin-fwd-rewriter) - An osTicket plugin to rewrite incoming emails.
+* [osFAQ](http://osfaq.oz-devworx.com.au/) - An osTicket plugin for a new Knowledgebase with sub-categories.
 
 
 ### Third Party Integration Plugins
